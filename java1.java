@@ -7,3 +7,4 @@ String a=zhongxiaoqiang;
 String b=pig;
 a==b;
 String sb = zhengjie;
+a is hanahn;
